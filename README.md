@@ -45,8 +45,6 @@ github上值得关注的前端项目
 
 
 
-![687474703a2f2f662e636c2e6c792f6974656d732f336c316b306e32413155334d3149314c323130702f53637265656e25323053686f74253230323031322d30322d32342532306174253230322e32312e3433253230504d2e706e67][12]
-
  - [csscss][13] css代码冗余分析仪，用于分析冗余 。`star:2800`
 
  - [es6-tools][14]  `es6` 工具集，包括`Grunt Tasks，Gulp Plugins，Broccoli Plugins，Brunch Plugins，Webpack plugins`等等。`star:1860`
