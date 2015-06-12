@@ -26,6 +26,7 @@ github上值得关注的前端项目
 
  - [mobile-web-favorites][8] 移动端web开发收藏夹。`star:200`
 
+ - [javascript-sdk-design][98] javascript sdk 开发手册。`star:16`
 
 
 样式/UI
@@ -347,3 +348,4 @@ HTML5
   [95]: https://github.com/mbostock
   [96]: https://github.com/necolas
   [97]: https://github.com/RubyLouvre
+  [98]: https://github.com/huei90/javascript-sdk-design
