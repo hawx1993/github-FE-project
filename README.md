@@ -359,7 +359,7 @@ HTML5
 
 本篇文章会持续更新，欢迎收藏。
 
-> 文章已推送至我的`github`，欢迎`pullrequest`：https://github.com/hawx1993/github-FE-project
+> 博客 地址 ：http://segmentfault.com/blog/trigkit4
 
 
   [1]: /img/bVmlRU
