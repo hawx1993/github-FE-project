@@ -152,13 +152,10 @@ canvas/数据可视化
 <br>
  - [parallax.js][55]轻量级的的视差引擎，能对智能设备的方向作出反应。。`star:9K` （10.17更新）
 
-
-
    
 
 插件
 --
-<br>
  - [zepto.fullpage][56] 专注于移动端的全屏滚动插件。`star:510`
  <br>
  - [fullPage.js][57] pc端的全屏滚动插件。 `star:9500` [view demo][58] 
@@ -191,7 +188,6 @@ canvas/数据可视化
 <br>
  - [reveal.js][76] 基于`CSS3`的3D幻灯片工具。能够制作绚丽的演示文稿并生成`HTML`格式，将它发布到web上。`star:21500` [view demo][77]
 
-<br>
  - [pure.css][78] 一组很小的，响应式的`css`组件，你可以在网页的项目上到处使用。`star:12000`
 <br>
  - [three.js][79] 是`JavaScript`编写的`WebGL`第三方库。提供了非常多的3D显示功能。`star:20000`
@@ -384,10 +380,13 @@ HTML5
 <br>
  - [Ghost][160] `Node.js`开发最新博客系统, 简单简洁, 响应式设计, 支持完全自定义, 免费, 专注博客。`star:16000`
 <br>
+
  - [io.js][161]  从`NodeJS`里分离出来的一条分支。`star:13000`
 <br>
+
  - [2048 游戏][162] [view demo][163] `star:7000`
 <br>
+
  - [ueditor][164] 百度前端团队出品的富本文编辑器。`star:1.1K`
 
 优秀开源组织
@@ -395,7 +394,7 @@ HTML5
 
  - [AlloyTeam][165] 腾讯 `Web` 前端团队。 
 
-<br>
+
  - [fex-team][166] 百度前端团队。
 
 
