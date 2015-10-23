@@ -190,61 +190,82 @@ canvas/数据可视化
 
  - [pure.css][78] 一组很小的，响应式的`css`组件，你可以在网页的项目上到处使用。`star:12000`
 <br>
+
  - [three.js][79] 是`JavaScript`编写的`WebGL`第三方库。提供了非常多的3D显示功能。`star:20000`
 <br>
+
  - [TimelineJS][80] 轻松制作时间轴。`star:8000`
 <br>
+
  - [jquery-pjax][81] 对`ajax` 和 `pushState`的封装，让你可以很方便的使用`pushState`技术，用以实现页面无刷新加载。`star:11500`
 <br>
+
  - [highlight.js][82] `javascript`语法高亮。既可以运行在浏览器端也可以运行在服务端。`star:5500`
 <br>
+
  - [commander.js][83] `Node.js`命令行工具。`star:3800`
 <br>
+
  - [togetherjs][84] 由`Mozilla`打造的一款可以给网站添加实时协作功能的`JavaScript`库。`star:5K`
 <br>
+
  - [HTML.js][85] 轻量级的简化与`DOM`操作的js库。[view demo][86] `star:1.5K`
 <br>
+
  - [MEAN.JS][87] 全栈式javascript，使用`MongoDB, Express,
    AngularJS`和`Node.js`。`star:2.2K`
 <br>
+
  - [wechat.js][88] 微信相关的 js 操作：分享、网络、菜单。`star:700`
 <br>
+
  - [JavaScript-Load-Image][89] 一个`js`加载和转换图像文件的库。 `star:1.2K` [view
    demo][90]
 <br>
+
  - [progress.js][91] 一个 `js` 和 `CSS3`的库，帮助开发人员为网页上的每个对象创建和管理进度条效果。`star:1.6K` [view demo][92]
 <br>
+
  - [foundation][93] 号称世界上最先进的响应式前端框架，也是一款`Mobile First`的框架。`star:21K`
 <br>
+
  - [Sugar][94] 一个`JavaScript`库。它扩展了现有的`JS`对象的方法，让你可以用更少的代码做更多的事情。`star:2.8K`
 <br>
+
  - [todomvc][95] 帮你挑选一款MV*框架，它使用不同的最流行的`js MV*`框架实现了一个相同的`Todo`应用。`star:13K`
 <br>
+
  - [yepnope.js][96] 这是一个异步的条件加载框架，速度超快，只为用户加载需要的脚本。使用非常简单，非常有用！`star:2.5K`
 <br>
+
  - [Material UI][97] 是一个 `CSS` 框架和一组实现谷歌 Material Design 设计规范的 React
    组件。`star:8.8K`（6.28更新）
 <br>
+
  - [Pikaday][98] 是一个 `JavaScript` 日期选择器，特点是轻量级、无依赖和模块化的
    `CSS`。`star:2.8K` [view demo][99](7.1更新)
 
-![图片描述][100]
 <br>
  - [vuejs][101] 用于构建交互式的 Web 界面的库。它提供了 `MVVM` 数据绑定和一个可组合的组件系统,具有简单、灵活的 API。`star:6K`（7.12更新）
 <br>
+
  - [meteor][102] 超简单的，数据库无处不在的，用于自动化和简化实时运行的 `Web` 应用程序的开发。纯`JavaScript`的Web框架。`star:27K`（7.12更新）
 <br>
+
  - [webuploader][103]
    一个简单的以`HTML5`为主，`FLASH`为辅的现代文件上传组件。支持大文件分片并发上传，极大的提高了文件上传效率。`star:1.8K` 
 <br>
+
  - [fastclick][104]触摸UI上的消除点击延迟js库。`star:1W`(10.15更新)
 <br>
+
  - [wangEditor][105] 轻量级web富文本框。 (10.15更新)
 <br>
+
  - [benchmark.js][106]是强大的基准测试库，几乎适用于所有`JavaScript`平台。支持`high-resolution`定时器，并返回重要的统计结果。`star:1.7k`(10.15更新)
 <br>
+
  - [headroom.js][107]是一个轻量级、纯 JS 组件,用来隐藏或展现页面上的元素,为你的页面留下更多展示内容的空间。`star:7.5K` (10.15更新)
-<br>
 
 移动端
 ---
