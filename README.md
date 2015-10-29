@@ -177,6 +177,7 @@ canvas/数据可视化
  - [justlazy.js][71] 轻量级js图片延迟加载插件。（10.22更新）
 
 
+
 框架、库和组件
 -----
 
@@ -417,6 +418,20 @@ HTML5
 
 
  - [fex-team][166] 百度前端团队。
+ 
+补充一些比较有意思的插件
+----
+ - [Snap.svg][167] 一个可以实现动态svg效果的比较好的插件。（`star:7186`）
+ - <br>
+ - [Sticker.js][168] 实现贴纸效果的插件，很有意思。（`star:481`）
+ - <br>
+ - [ihover.js][169] 通过纯css实现，没有任何依赖，酷炫的鼠标悬停插件。（`star:2721`）
+ - <br>
+ - [elevator.js][170] 一个很有意思，模拟电梯运行返回顶部的插件。（`star:3721`）
+ - <br>
+ - [space.js][171] 3D下滑变换页面的插件。（`star:1355`）
+ - <br>
+ - [underline.js][171] 个人觉得最有创意的插件，下划线原来也可以这么玩。（`star:1355`）
 
 
 
@@ -591,3 +606,9 @@ HTML5
   [164]: https://github.com/fex-team/ueditor
   [165]: https://github.com/AlloyTeam
   [166]: https://github.com/fex-team
+  [167]: https://github.com/adobe-webplatform/Snap.svg
+  [168]: https://github.com/cmiscm/stickerjs
+  [169]: https://github.com/gudh/ihover
+  [170]: https://github.com/tholman/elevator.js
+  [171]: https://github.com/gopatrik/space.js
+  [172]: https://github.com/wentin/underlineJS
