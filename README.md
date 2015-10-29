@@ -422,16 +422,18 @@ HTML5
 补充一些比较有意思的插件
 ----
  - [Snap.svg][167] 一个可以实现动态svg效果的比较好的插件。（`star:7186`）
- - <br>
+ <br>
  - [Sticker.js][168] 实现贴纸效果的插件，很有意思。（`star:481`）
- - <br>
+ <br>
  - [ihover.js][169] 通过纯css实现，没有任何依赖，酷炫的鼠标悬停插件。（`star:2721`）
- - <br>
+ <br>
  - [elevator.js][170] 一个很有意思，模拟电梯运行返回顶部的插件。（`star:3721`）
- - <br>
+ <br>
  - [space.js][171] 3D下滑变换页面的插件。（`star:1355`）
- - <br>
- - [underline.js][171] 个人觉得最有创意的插件，下划线原来也可以这么玩。（`star:1355`）
+ <br>
+ - [underline.js][171] 个人觉得最有创意的插件，下划线原来也可以这么玩。（`star:1279`）
+ <br>
+ - [highchart.js][171] 数据可视化的一个插件，功能很完善，展示效果非常好。（`star:4294`）
 
 
 
@@ -612,3 +614,4 @@ HTML5
   [170]: https://github.com/tholman/elevator.js
   [171]: https://github.com/gopatrik/space.js
   [172]: https://github.com/wentin/underlineJS
+  [173]: https://github.com/highslide-software/highcharts.com
