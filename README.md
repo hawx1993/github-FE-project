@@ -1,4 +1,4 @@
-> http://microjs.com/#
+
 
 该网站的资源都托管到了`github`，`microjs.com`是一个可以让你选择微型的`js`类库的网站，该网站里的`js`库都是压缩后不大于5KB的，非常实用
 
@@ -439,7 +439,7 @@ HTML5
 
 本篇文章会持续更新，欢迎收藏。
 
-> 文章已推送至我的`github`，欢迎`pullrequest`：https://github.com/hawx1993/github-FE-project
+> 文章已推送至我的`github`，欢迎`pullrequest`：https://github.com/chenxin0309/github-FE-project
 
 
   [1]: /img/3.jpeg
