@@ -431,9 +431,14 @@ HTML5
  <br>
  - [space.js][171] 3D下滑变换页面的插件。（`star:1355`）
  <br>
- - [underline.js][171] 个人觉得最有创意的插件，下划线原来也可以这么玩。（`star:1279`）
+ - [underline.js][172] 个人觉得最有创意的插件，下划线原来也可以这么玩。（`star:1279`）
  <br>
- - [highchart.js][171] 数据可视化的一个插件，功能很完善，展示效果非常好。（`star:4294`）
+ - [highchart.js][173] 数据可视化的一个插件，功能很完善，展示效果非常好。（`star:4294`）
+ <br>
+ - [echart.js][174] 中国开源的数据可视化插件，功能很完善，展示效果非常好。（`star:9365`）
+ <br>
+ - [os.js][175]OS.js--javascript云端桌面平台 。（`star:2430`）
+ 
 
 
 
@@ -615,3 +620,5 @@ HTML5
   [171]: https://github.com/gopatrik/space.js
   [172]: https://github.com/wentin/underlineJS
   [173]: https://github.com/highslide-software/highcharts.com
+  [174]: https://github.com/ecomfe/echarts
+  [175]: https://github.com/andersevenrud/OS.js-v2
