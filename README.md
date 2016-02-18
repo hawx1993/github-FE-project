@@ -31,7 +31,7 @@ The Vanilla JavaScript Repository，该仓库都是用原生`js`写的插件和�
  - [mobile-web-favorites][10] 移动端web开发收藏夹。`star:200`
 <br>
  - [gulp-book][11] `Gulp` 入门指南 
-- [Front-end-tutorial][12] 最全的资源教程-前端涉及的所有知识体系。（12.25更新）
+ - [Front-end-tutorial][12] 最全的资源教程-前端涉及的所有知识体系。（12.25更新）
 
 样式/UI/css
 ----
@@ -51,7 +51,7 @@ The Vanilla JavaScript Repository，该仓库都是用原生`js`写的插件和�
  - [css3 PIE][18] 允许在IE上使用`CSS3`绝大部分的酷炫功能。官网：http://css3pie.com/
 <br>
  - [mui][19] 轻量级css框架。`star:1.5K`(10.15更新)
-- [img2css][20] 将图片转为纯css的黑科技。`star:1.5K`（12.25更新）
+ - [img2css][20] 将图片转为纯css的黑科技。`star:1.5K`（12.25更新）
 测试/工具
 -----
 
@@ -155,7 +155,7 @@ canvas/数据可视化
 <br>
  - [parallax.js][58]轻量级的的视差引擎，能对智能设备的方向作出反应。。`star:9K` （10.17更新）
 
-- [Velocity][59] 是一款和jQuery的`$.animate()`有相同API的动画引擎。很适合移动端的动画开发，还打包了颜色动画，转换，循环，easing效果，类动画、滚动等功能。`star：9.5K`(12月25更新)
+ - [Velocity][59] 是一款和jQuery的`$.animate()`有相同API的动画引擎。很适合移动端的动画开发，还打包了颜色动画，转换，循环，easing效果，类动画、滚动等功能。`star：9.5K`(12月25更新)
 
    
 
@@ -181,7 +181,7 @@ canvas/数据可视化
  - [onepage-scroll][73] 一款带有背景视觉差效果的`jQuery`整页滚动特效插件。star：8K （10.17更新）[view demo][74]
 <br>
  - [justlazy.js][75] 轻量级js图片延迟加载插件。（10.22更新）
-- [awesome-browser-extensions-for-github][76] 收集关于github上优秀的浏览器插件。非常实用。star:200 (12.25更新)
+ - [awesome-browser-extensions-for-github][76] 收集关于github上优秀的浏览器插件。非常实用。star:200 (12.25更新)
 
 框架、库和组件
 -----
@@ -194,7 +194,6 @@ canvas/数据可视化
 <br>
  - [reveal.js][81] 基于`CSS3`的3D幻灯片工具。能够制作绚丽的演示文稿并生成`HTML`格式，将它发布到web上。`star:21500` [view demo][82]
 
-<br>
  - [pure.css][83] 一组很小的，响应式的`css`组件，你可以在网页的项目上到处使用。`star:12000`
 <br>
  - [three.js][84] 是`JavaScript`编写的`WebGL`第三方库。提供了非常多的3D显示功能。`star:20000`
@@ -235,8 +234,6 @@ canvas/数据可视化
  - [Pikaday][103] 是一个 `JavaScript` 日期选择器，特点是轻量级、无依赖和模块化的
    `CSS`。`star:2.8K` [view demo][104](7.1更新)
 
-![图片描述][105]
-<br>
  - [vuejs][106] 用于构建交互式的 Web 界面的库。它提供了 `MVVM` 数据绑定和一个可组合的组件系统,具有简单、灵活的 API。`star:6K`（7.12更新）
 <br>
  - [meteor][107] 超简单的，数据库无处不在的，用于自动化和简化实时运行的 `Web` 应用程序的开发。纯`JavaScript`的Web框架。`star:27K`（7.12更新）
@@ -253,7 +250,7 @@ canvas/数据可视化
  - [headroom.js][112]是一个轻量级、纯 JS 组件,用来隐藏或展现页面上的元素,为你的页面留下更多展示内容的空间。`star:7.5K` (10.15更新)
 <br>
 
-- [tooling][113] 快速开发web app
+ - [tooling][113] 快速开发web app
 
 
 移动端
@@ -273,9 +270,9 @@ canvas/数据可视化
 <br>
  - [Swiper][120]纯`javascript`打造的滑动特效插件，面向手机、平板电脑等移动终端。能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果。`star:6K`(10月18更新)
 <br>
-- [SUI-Mobile][121]由阿里巴巴国际UED前端出品的移动端UI库，轻量精美 `star:2K`(2016.1.14更新)
+ - [SUI-Mobile][121]由阿里巴巴国际UED前端出品的移动端UI库，轻量精美 `star:2K`(2016.1.14更新)
 <br>
-- [lib-flexible][122] 淘宝出品的移动端可伸缩布局方案。`star:1.3K+`（2016.1.14更新）
+ - [lib-flexible][122] 淘宝出品的移动端可伸缩布局方案。`star:1.3K+`（2016.1.14更新）
 
 
 Node.js相关
@@ -355,7 +352,7 @@ HTML5
  - [artTemplate][154]  性能卓越的 `js` 模板引擎。`star:1.7K`
 <br>
  - [jade][155] 一款高性能简洁易懂的模板引擎，`Jade`是`Haml`的`Javascript`实现。`star:8.7K` 
-- [ejs][156] tj大神写的嵌入javascript的模板引擎，主要用于Node
+ - [ejs][156] tj大神写的嵌入javascript的模板引擎，主要用于Node
 
 浏览器兼容方案 
 -------
@@ -411,7 +408,7 @@ HTML5
 
  - [AlloyTeam][177] 腾讯 `Web` 前端团队。 
 
-<br>
+
  - [fex-team][178] 百度前端团队。
 
 >新博客：http://hawx1993.github.io/，欢迎关注
