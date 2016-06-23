@@ -77,7 +77,7 @@ The Vanilla JavaScript Repository，该仓库都是用原生`js`写的插件和�
 
  - [img2css][20] 将图片转为纯css的黑科技。`star:1.5K`（12.25更新）
  - [WeUI](https://github.com/weui/weui)为微信 Web 服务量身设计。`star:8.2K+`
- -
+ - [resume-master](https://github.com/hawx1993/resume-master) 简洁易用的简历生成项目，可部署到github pages在线浏览。
 
 测试/工具
 -----
@@ -141,6 +141,8 @@ canvas/数据可视化
 
  - [img2css][47] 将图片转为纯css代码。（11.3更新）
 
+ - [highcharts](https://github.com/highcharts/highcharts) 基于SVG的JavaScript 图表框架
+
 模块管理/加载器
 --------
 
@@ -176,6 +178,10 @@ canvas/数据可视化
 
 插件
 --
+
+ - [front-end-plugins](https://github.com/iamjoel/front-end-plugins) 前端常用插件汇总
+
+ - [jquery.transit](https://github.com/rstacruz/jquery.transit) 超级流畅的css3 transformations 和 transitions的jQuery插件。 `star:7K+`
 
  - [zepto.fullpage][60] 专注于移动端的全屏滚动插件。`star:510`
 
@@ -298,7 +304,10 @@ canvas/数据可视化
 Node.js相关
 ---------
 
-[http://nodeframework.com/][123] 专门收集`node.js`的`web`框架的网站。其项目同样均托管在`github`上。
+
+ - [node-restify](https://github.com/restify/node-restify) node.js REST framework specifically meant for web service APIs。`star:5K+`
+
+ - [http://nodeframework.com/][123] 专门收集`node.js`的`web`框架的网站。其项目同样均托管在`github`上。
 
 ![图片描述][124]
 <br>
@@ -392,6 +401,8 @@ HTML5
 
  - [Babel][162] 是一款为了写下一代js的编译器，无需等待浏览器支持就可以使用新的语法。`star：8.3K` (7.29更新)
 
+ - [f2etest](https://github.com/alibaba/f2etest) F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。`star:1K`
+
 菊苣
 ----
 
@@ -426,6 +437,11 @@ HTML5
  - [2048 游戏][174] [view demo][175] `star:7000`
 
  - [ueditor][176] 百度前端团队出品的富本文编辑器。`star:1.1K`
+
+ - [electron](https://github.com/electron/electron) 使用js,css,html构建跨平台的桌面应用。`star:32K+`
+
+ - [hosts](https://github.com/racaljk/hosts) 最新可用的google hosts文件。`star:5.4K+`
+
 
 优秀开源组织
 ----
